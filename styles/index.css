@@ -23,3 +23,15 @@ h1 {
 #uranus {
     color: red;
 }
+.image-container{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    height: 100vh;
+
+}
+.styled-image{
+    width: auto;
+    border: 3px solid;
+    
+}
